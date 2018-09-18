@@ -20,3 +20,14 @@ C:\Users\nanand\Desktop\TicTacToe\TicTacToe\obj\Debug\netcoreapp1.1\TicTacToe.As
 C:\Users\nanand\Desktop\TicTacToe\TicTacToe\obj\Debug\netcoreapp1.1\TicTacToe.AssemblyInfo.cs
 C:\Users\nanand\Desktop\TicTacToe\TicTacToe\obj\Debug\netcoreapp1.1\TicTacToe.dll
 C:\Users\nanand\Desktop\TicTacToe\TicTacToe\obj\Debug\netcoreapp1.1\TicTacToe.pdb
+C:\Users\nanand\Desktop\tictactoecassendra\TicTacToe\bin\Debug\netcoreapp1.1\TicTacToe.deps.json
+C:\Users\nanand\Desktop\tictactoecassendra\TicTacToe\bin\Debug\netcoreapp1.1\TicTacToe.runtimeconfig.json
+C:\Users\nanand\Desktop\tictactoecassendra\TicTacToe\bin\Debug\netcoreapp1.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\nanand\Desktop\tictactoecassendra\TicTacToe\bin\Debug\netcoreapp1.1\TicTacToe.dll
+C:\Users\nanand\Desktop\tictactoecassendra\TicTacToe\bin\Debug\netcoreapp1.1\TicTacToe.pdb
+C:\Users\nanand\Desktop\tictactoecassendra\TicTacToe\obj\Debug\netcoreapp1.1\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\nanand\Desktop\tictactoecassendra\TicTacToe\obj\Debug\netcoreapp1.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\nanand\Desktop\tictactoecassendra\TicTacToe\obj\Debug\netcoreapp1.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\nanand\Desktop\tictactoecassendra\TicTacToe\obj\Debug\netcoreapp1.1\TicTacToe.AssemblyInfo.cs
+C:\Users\nanand\Desktop\tictactoecassendra\TicTacToe\obj\Debug\netcoreapp1.1\TicTacToe.dll
+C:\Users\nanand\Desktop\tictactoecassendra\TicTacToe\obj\Debug\netcoreapp1.1\TicTacToe.pdb

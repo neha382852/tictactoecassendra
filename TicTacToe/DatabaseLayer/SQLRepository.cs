@@ -84,7 +84,7 @@ namespace TicTacToe.DatabaseLayer
             // Connect to the TicTacToe keyspace on our cluster running at 127.0.0.1
             Cluster cluster = Cluster.Builder().AddContactPoint("127.0.0.1").Build();
             ISession session = cluster.Connect("tictactoe");
-            Row result = session.Execute("select * from userdetails where username=" + username + "").First();
+            Row result = session.Execute("select * from userdetails where username='"+username+"'").First();
             string currentUserToken = result["accesstoken"].ToString();
             return currentUserToken;
 

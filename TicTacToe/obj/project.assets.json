@@ -10124,11 +10124,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\nanand\\Desktop\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "C:\\Users\\nanand\\Desktop\\tictactoecassendra\\TicTacToe\\TicTacToe.csproj",
       "projectName": "TicTacToe",
-      "projectPath": "C:\\Users\\nanand\\Desktop\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "projectPath": "C:\\Users\\nanand\\Desktop\\tictactoecassendra\\TicTacToe\\TicTacToe.csproj",
       "packagesPath": "C:\\Users\\nanand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nanand\\Desktop\\TicTacToe\\TicTacToe\\obj\\",
+      "outputPath": "C:\\Users\\nanand\\Desktop\\tictactoecassendra\\TicTacToe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nanand\\AppData\\Roaming\\NuGet\\NuGet.Config",
